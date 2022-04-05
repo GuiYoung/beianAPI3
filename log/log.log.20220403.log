@@ -1,0 +1,60 @@
+{"client_ip":"127.0.0.1","latency_time":138574841,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:45:20"}
+{"client_ip":"127.0.0.1","latency_time":141580548,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:45:54"}
+{"client_ip":"127.0.0.1","latency_time":39408417,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:48:27"}
+time="2022-04-03T00:48:27-07:00" level=info client_ip=127.0.0.1 latency_time=39.408417ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":130945804,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:48:39"}
+time="2022-04-03T00:48:39-07:00" level=info client_ip=127.0.0.1 latency_time=130.945804ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":27432394,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:48:43"}
+time="2022-04-03T00:48:43-07:00" level=info client_ip=127.0.0.1 latency_time=27.432394ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":146137458,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:48:53"}
+time="2022-04-03T00:48:53-07:00" level=info client_ip=127.0.0.1 latency_time=146.137458ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":31197835,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:52:17"}
+time="2022-04-03T00:52:17-07:00" level=info client_ip=127.0.0.1 latency_time=31.197835ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":138689162,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:54:37"}
+time="2022-04-03T00:54:37-07:00" level=info client_ip=127.0.0.1 latency_time=138.689162ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":34708443,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:55:31"}
+time="2022-04-03T00:55:31-07:00" level=info client_ip=127.0.0.1 latency_time=34.708443ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":31133998,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:55:49"}
+time="2022-04-03T00:55:49-07:00" level=info client_ip=127.0.0.1 latency_time=31.133998ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":154627943,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:56:01"}
+time="2022-04-03T00:56:01-07:00" level=info client_ip=127.0.0.1 latency_time=154.627943ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":41124858,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:56:19"}
+time="2022-04-03T00:56:19-07:00" level=info client_ip=127.0.0.1 latency_time=41.124858ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":29747082,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:56:24"}
+time="2022-04-03T00:56:24-07:00" level=info client_ip=127.0.0.1 latency_time=29.747082ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":29106476,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:57:43"}
+time="2022-04-03T00:57:43-07:00" level=info client_ip=127.0.0.1 latency_time=29.106476ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":316033822,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 00:58:20"}
+time="2022-04-03T00:58:20-07:00" level=info client_ip=127.0.0.1 latency_time=316.033822ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":54100490,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:02:53"}
+time="2022-04-03T01:02:53-07:00" level=info client_ip=127.0.0.1 latency_time=54.10049ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":82527502,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:04:13"}
+time="2022-04-03T01:04:13-07:00" level=info client_ip=127.0.0.1 latency_time=82.527502ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":860796,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:04:56"}
+time="2022-04-03T01:04:56-07:00" level=info client_ip=127.0.0.1 latency_time="860.796µs" req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":1793428,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:05:30"}
+time="2022-04-03T01:05:30-07:00" level=info client_ip=127.0.0.1 latency_time=1.793428ms req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":652973,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:06:23"}
+time="2022-04-03T01:06:23-07:00" level=info client_ip=127.0.0.1 latency_time="652.973µs" req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":237117,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:08:06"}
+time="2022-04-03T01:08:06-07:00" level=info client_ip=127.0.0.1 latency_time="237.117µs" req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":188156,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:08:11"}
+time="2022-04-03T01:08:11-07:00" level=info client_ip=127.0.0.1 latency_time="188.156µs" req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":3582605265,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:08:26"}
+time="2022-04-03T01:08:26-07:00" level=info client_ip=127.0.0.1 latency_time=3.582605265s req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":3720850949,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/signUp","status_code":200,"time":"2022-04-03 01:08:49"}
+time="2022-04-03T01:08:49-07:00" level=info client_ip=127.0.0.1 latency_time=3.720850949s req_method=POST req_uri=/api/v1/user/signUp status_code=200
+{"client_ip":"127.0.0.1","latency_time":432173425,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/getToken","status_code":200,"time":"2022-04-03 01:10:27"}
+time="2022-04-03T01:10:27-07:00" level=info client_ip=127.0.0.1 latency_time=432.173425ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+{"client_ip":"127.0.0.1","latency_time":403905234,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/getToken","status_code":200,"time":"2022-04-03 01:10:40"}
+time="2022-04-03T01:10:40-07:00" level=info client_ip=127.0.0.1 latency_time=403.905234ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+{"client_ip":"127.0.0.1","latency_time":84062734,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/getToken","status_code":200,"time":"2022-04-03 01:10:46"}
+time="2022-04-03T01:10:46-07:00" level=info client_ip=127.0.0.1 latency_time=84.062734ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+{"client_ip":"127.0.0.1","latency_time":55913476,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/getToken","status_code":200,"time":"2022-04-03 01:11:45"}
+time="2022-04-03T01:11:45-07:00" level=info client_ip=127.0.0.1 latency_time=55.913476ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+{"client_ip":"127.0.0.1","latency_time":496940519,"level":"info","msg":"","req_method":"POST","req_uri":"/api/v1/user/getToken","status_code":200,"time":"2022-04-03 01:12:09"}
+time="2022-04-03T01:12:09-07:00" level=info client_ip=127.0.0.1 latency_time=496.940519ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+time="2022-04-05T00:53:51-07:00" level=info client_ip=127.0.0.1 latency_time="166.151µs" req_method=GET req_uri="/api/v1/beianInfo?domainName=tencent.com" status_code=401
+time="2022-04-05T00:54:27-07:00" level=info client_ip=127.0.0.1 latency_time=375.673744ms req_method=POST req_uri=/api/v1/user/getToken status_code=200
+time="2022-04-05T00:55:08-07:00" level=info client_ip=127.0.0.1 latency_time=1.193903784s req_method=GET req_uri="/api/v1/beianInfo?domainName=tencent.com&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJleHAiOjE2NDkxNTk2NjcsImlzcyI6ImJlaWFuQVBJIiwibmJmIjoxNjQ5MTQ1MjA3fQ.jiVBxpCQIchBkhZMKwEGSktCj-EZxV8zd8RwM6IMC4Q" status_code=200
+time="2022-04-05T00:56:13-07:00" level=info client_ip=127.0.0.1 latency_time=411.30198ms req_method=GET req_uri="/api/v1/beianInfo?domainName=tencent.com&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJleHAiOjE2NDkxNTk2NjcsImlzcyI6ImJlaWFuQVBJIiwibmJmIjoxNjQ5MTQ1MjA3fQ.jiVBxpCQIchBkhZMKwEGSktCj-EZxV8zd8RwM6IMC4Q" status_code=200
