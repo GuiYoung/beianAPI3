@@ -16,6 +16,8 @@ const (
 	// code= 2000... 信息模块错误
 	//ERROR_DOMAIN_WRONG    = 2001
 	ERROR_GET_INFO_FAILED = 2002
+
+	ERROR_RATE_LIMIT = 3001
 )
 
 var codeMsg = map[int]string{
@@ -31,6 +33,8 @@ var codeMsg = map[int]string{
 
 	//ERROR_DOMAIN_WRONG:    "域名错误",
 	ERROR_GET_INFO_FAILED: "获取信息失败",
+
+	ERROR_RATE_LIMIT: "请求频率过高",
 }
 
 func GetErrMsg(code int) string {
