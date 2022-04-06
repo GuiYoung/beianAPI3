@@ -13,6 +13,6 @@ COPY . ./
 
 RUN go build -o /beianAPI
 
-EXPOSE 8080
+EXPOSE 9001
 
 CMD [ "/beianAPI" ]
